@@ -13,5 +13,6 @@ git push
 
 
 //从远程仓库拉取最新代码时
+git pull
 
 
